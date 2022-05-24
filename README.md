@@ -46,7 +46,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 <hr>
 
 ## ⚙️ Ferramentas para desenvolvimento:
-> Ferramentas geralmente serão sites com algum conteúdo pronto ou customizavel que você possa aplicar no projeto.
+> Ferramentas geralmente serão sites com algum conteúdo pronto ou customizavel que você possa aplicar no projeto, fazendo assim que você economize tempo no seu desenvolvimento.
 
 - [Minimamente](https://www.minimamente.com/project/magic/) - Efeitos para você colocar no seu CSS <br>
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Gerador de Menu Hamburgers <br> 
