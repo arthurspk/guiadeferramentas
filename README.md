@@ -30,7 +30,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 
 > A proposta deste guia é te auxiliar com algumas extensões e ferramentas que nós desenvolvedores utilizamos no dia-a-dia para poupar tempo enquanto estamos produzindo nossos projetos, tendo assim como finalidade facilitar seu trabalho durante a execução do mesmo..
 
-## Acompanhe outros guias
+## 📚 Acompanhe outros guias
 > Acompanhe outros guias desenvolvidos para te ajudar na sua carreira como desenvolvedor.
 
 - [Guia Extenso de Programação](https://github.com/arthurspk/guiadevbrasil)
