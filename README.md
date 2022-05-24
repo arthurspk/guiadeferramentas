@@ -46,7 +46,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 <hr>
 
 ## ⚙️ Ferramentas para desenvolvimento:
-> Ferramentas geralmente serão sites com algum conteúdo pronto ou customizavel que você possa aplicar no seu projeto.
+> Ferramentas geralmente serão sites com algum conteúdo pronto ou customizavel que você possa aplicar no projeto.
 
 - [Minimamente](https://www.minimamente.com/project/magic/) - Efeitos para você colocar no seu CSS <br>
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Gerador de Menu Hamburgers <br> 
@@ -143,6 +143,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 - [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
 ## 🔩 Extensões para o seu navegador
+> Extensões para o navegador para dar um apoio no seu desenvolvimento ou produtividade.
 
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp/related?hl=pt-BR) <br>
 - [CSS Viewer](https://chrome.google.com/webstore/detail/css-viewer-for-google-chr/eedfldkdghfkhdcanjnfiklpeehbfoag/related?hl=pt-BR) <br>
@@ -187,6 +188,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 - [SVG Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) <br>
 
 ## 🪡 Geradores de CSS
+> Geradores de CSS para o seu projeto.
 
 - [UI Verse](https://uiverse.io/) - Gerador de buttons, checkboxes, toggle switches, cards, loaders, inputs. <br>
 - [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius <br>
@@ -213,6 +215,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 - [Shadow Palette](joshwcomeau.com/shadowpalette) - Gerador de sombras. <br> 
 
 ## 🔧 Ferramentas para buscar projetos open source
+> Ferramentas para procurar projetos open-source.
 
 - [Up for Grabs](http://up-for-grabs.net/) <br>
 - [Isse Hub](http://issuehub.pro/) <br>
