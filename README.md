@@ -30,6 +30,13 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 
 > A proposta deste guia é te auxiliar com algumas extensões e ferramentas que nós desenvolvedores utilizamos no dia-a-dia para poupar tempo enquanto estamos produzindo nossos projetos, tendo assim como finalidade facilitar seu trabalho durante a execução do mesmo..
 
+## Acompanhe outros guias
+> Acompanhe outros guias desenvolvidos para te ajudar na sua carreira como desenvolvedor.
+
+- [Guia Extenso de Programação](https://github.com/arthurspk/guiadevbrasil)
+- [Guia do Desenvolvedor Front-end](https://github.com/arthurspk/guiadofrontend)
+- [Guia do Desenvolvedor Back-end](https://github.com/arthurspk/guiadobackend)
+
 ## :beginner: Para quem está começando agora
 
 > Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
