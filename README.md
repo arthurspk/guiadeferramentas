@@ -75,7 +75,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 ![Ferramentas e Extensões](./images/guia.jpg)
 <hr>
 
-## ⚙️ Ferramentas para desenvolvimento:
+## ⚒️ Ferramentas para desenvolvimento:
 > Ferramentas geralmente serão sites com algum conteúdo pronto ou customizavel que você possa aplicar no projeto, fazendo assim que você economize tempo no seu desenvolvimento.
 
 - [Minimamente](https://www.minimamente.com/project/magic/) - Efeitos para você colocar no seu CSS <br>
@@ -217,7 +217,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 - [Outliner CSS](https://chrome.google.com/webstore/detail/outliner-css/epodomlablfiehjgajhlhbdhidlkokaj/related?hl=pt-BR) <br>
 - [SVG Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) <br>
 
-## 🪡 Geradores de CSS
+## ⚙️ Geradores de CSS
 > Geradores de CSS para o seu projeto.
 
 - [UI Verse](https://uiverse.io/) - Gerador de buttons, checkboxes, toggle switches, cards, loaders, inputs. <br>
