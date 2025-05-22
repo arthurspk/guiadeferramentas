@@ -122,6 +122,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 - [ES6console](https://es6console.com/) - Compilador de JS para Ecmascript <br>
 - [Firebase](https://firebase.google.com/?hl=pt-BR) - Desenvolva aplicativos mobile e web incríveis este serviço da Google <br>
 - [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) - Navegador web para desenvolvedores web <br>
+- [FormatarJSON](https://formatarjson.com.br) - Formatar JSON, XML, e outros <br>
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=pt-BR) - Capture páginas inteiras com uma extensão para Chrome <br>
 - [generatedata](http://www.generatedata.com/) - Gerador de dados para testes <br>
 - [Git Command Explorer](https://gitexplorer.com/) - Encontre os comandos certos que você precisa sem vasculhar a web <br>
