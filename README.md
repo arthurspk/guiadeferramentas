@@ -86,6 +86,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 ## ⚒️ Ferramentas para desenvolvimento:
 > Ferramentas geralmente serão sites com algum conteúdo pronto ou customizavel que você possa aplicar no projeto, fazendo assim que você economize tempo no seu desenvolvimento.
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Agente de QA com código-fonte disponível para criar e executar testes web e mobile em linguagem natural, guardar memória das execuções e adaptar fluxos quando a interface muda. Licenciado sob FSL-1.1-ALv2; cada versão passa para Apache-2.0 após dois anos. <br>
 - [Minimamente](https://www.minimamente.com/project/magic/) - Efeitos para você colocar no seu CSS <br>
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Gerador de Menu Hamburgers <br> 
 - [Hover CSS](https://ianlunn.github.io/Hover/) - Gerador de hovers para o CSS <br>
