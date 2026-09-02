@@ -1,0 +1,54 @@
+name: 💡 Sugestão de recurso
+description: Sugira uma ferramenta, extensão, gerador, canal ou comunidade para o guia.
+title: "[Recurso]: "
+labels: ["sugestão"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado pela sugestão! Leia os critérios em [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) antes de enviar. Só aceitamos conteúdo legal, com link funcionando.
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do recurso
+      placeholder: "Ex.: Bruno — cliente de API"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoria
+      options:
+        - Documentação e referência rápida
+        - Canais no YouTube
+        - Sites, blogs e newsletters
+        - Ferramentas
+        - Geradores de CSS
+        - Design, cores e diagramas
+        - Extensões para o navegador
+        - Ferramentas para buscar projetos open source
+        - IA na prática
+        - Comunidades
+    validations:
+      required: true
+  - type: textarea
+    id: porque
+    attributes:
+      label: Por que incluir?
+      description: Uma ou duas linhas sobre o que é e por que vale o clique.
+    validations:
+      required: true
+  - type: checkboxes
+    id: criterios
+    attributes:
+      label: Confirmação
+      options:
+        - label: O link está funcionando e o conteúdo é legal (não é material pirateado).
+          required: true
