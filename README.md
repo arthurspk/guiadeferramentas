@@ -224,6 +224,7 @@ Abaixo você encontrará ferramentas e extensões para te auxiliar e ajudar no s
 - [Github Web IDE](https://chrome.google.com/webstore/detail/github-web-ide/adjiklnjodbiaioggfpbpkhbfcnhgkfe/related?hl=pt-BR) <br>
 - [Outliner CSS](https://chrome.google.com/webstore/detail/outliner-css/epodomlablfiehjgajhlhbdhidlkokaj/related?hl=pt-BR) <br>
 - [SVG Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) <br>
+- [GetYouTubeTranscript](https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd) <br>
 
 ## ⚙️ Geradores de CSS
 > Geradores de CSS para o seu projeto.
